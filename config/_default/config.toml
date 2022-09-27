@@ -1,0 +1,4 @@
+[imaging]
+  anchor = 'Smart'
+  quality = 100
+  resampleFilter = 'Lanczos'
